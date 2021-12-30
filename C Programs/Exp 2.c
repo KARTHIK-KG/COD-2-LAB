@@ -1,5 +1,10 @@
 // C program to perform binary addition?
 
+// i) Using function
+// ii) Input must be integer.
+// iii)Perform binary addition
+// iv) Print the the result
+
 #include<stdio.h>
 int main()
 {
@@ -22,3 +27,9 @@ int main()
         printf("%d", sum[i--]);
     return 0;
 }
+
+// Input :100000
+//        101010
+
+// Output :
+// Sum of two binary numbers: 1001010
