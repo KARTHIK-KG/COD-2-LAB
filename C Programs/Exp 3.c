@@ -1,5 +1,9 @@
 // C program to find the number occurring odd number of times?
 
+// Pass these test cases.
+// 1) Input: 10,20,30,40,10,20,30 
+// 2)Input:1,4,7,2,4,7,1,2,7
+
 #include <stdio.h>
 int getOddOccurrence(int arr[], int arr_size)
 {
@@ -34,3 +38,10 @@ int main()
  
         return 0;
     }
+
+
+// Input : 10 20 30 40 10 20 30
+// Output : 40
+
+// Input : 1 4 7 2 4 7 1 2 7
+// Output : 7
