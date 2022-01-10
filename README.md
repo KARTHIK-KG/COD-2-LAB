@@ -12,6 +12,8 @@ EXP 4 : C Program to implement Linear Search?
 
 EXP 5 : C Program to find sum of elements using array
 
+EXP 6 : C Program for Merge Sort
+
 # CPP Programs
 EXP 1 : C++ Program to find whether the given number is palindrome or not?
 
@@ -23,6 +25,8 @@ EXP 4 : C++ Program to implement Linear Search?
 
 EXP 5 : C++ Program to find sum of elements using Array
 
+EXP 6 : C++ Program for Merge Sort
+
 # Python Programs
 EXP 1 : Python Program to find whether the given number is palindrome or not?
 
@@ -33,4 +37,6 @@ EXP 3 : Python program to find the number occurring odd number of times?
 EXP 4 : Python Program to implement Linear Search?
 
 EXP 5 : Python Program to find sum of elements using Array
+
+EXP 6 : Python Program for Merge Sort
 
