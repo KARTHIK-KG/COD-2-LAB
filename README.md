@@ -14,6 +14,10 @@ EXP 5 : C Program to find sum of elements using array
 
 EXP 6 : C Program for Merge Sort
 
+EXP 7 : Bubble Sort In C
+
+EXP 8 : Binary Search in C
+
 # CPP Programs
 EXP 1 : C++ Program to find whether the given number is palindrome or not?
 
@@ -27,6 +31,10 @@ EXP 5 : C++ Program to find sum of elements using Array
 
 EXP 6 : C++ Program for Merge Sort
 
+EXP 7 : Bubble sort in C++
+
+EXP 8 : Binary Search in C++
+
 # Python Programs
 EXP 1 : Python Program to find whether the given number is palindrome or not?
 
@@ -39,4 +47,8 @@ EXP 4 : Python Program to implement Linear Search?
 EXP 5 : Python Program to find sum of elements using Array
 
 EXP 6 : Python Program for Merge Sort
+
+EXP 7 : Bubble Sort in Python
+
+EXP 8 : Binary Search in Python
 
