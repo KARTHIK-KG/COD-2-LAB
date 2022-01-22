@@ -18,6 +18,8 @@ EXP 7 : Bubble Sort In C
 
 EXP 8 : Binary Search in C
 
+EXP 9 : Quick sort in C
+
 # CPP Programs
 EXP 1 : C++ Program to find whether the given number is palindrome or not?
 
@@ -35,6 +37,8 @@ EXP 7 : Bubble sort in C++
 
 EXP 8 : Binary Search in C++
 
+EXP 9 : Quick sort in C++
+
 # Python Programs
 EXP 1 : Python Program to find whether the given number is palindrome or not?
 
@@ -51,4 +55,6 @@ EXP 6 : Python Program for Merge Sort
 EXP 7 : Bubble Sort in Python
 
 EXP 8 : Binary Search in Python
+
+EXP 9 : Quick sort in Python
 
