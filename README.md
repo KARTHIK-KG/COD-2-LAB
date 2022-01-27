@@ -20,6 +20,8 @@ EXP 8 : Binary Search in C
 
 EXP 9 : Quick sort in C
 
+EXP 10 : Traveling Salesman Problem (TSP)
+
 # CPP Programs
 EXP 1 : C++ Program to find whether the given number is palindrome or not?
 
@@ -39,6 +41,8 @@ EXP 8 : Binary Search in C++
 
 EXP 9 : Quick sort in C++
 
+EXP 10 : Traveling Salesman Problem (TSP)
+
 # Python Programs
 EXP 1 : Python Program to find whether the given number is palindrome or not?
 
@@ -57,4 +61,6 @@ EXP 7 : Bubble Sort in Python
 EXP 8 : Binary Search in Python
 
 EXP 9 : Quick sort in Python
+
+EXP 10 : Traveling Salesman Problem (TSP)
 
