@@ -22,6 +22,12 @@ EXP 9 : Quick sort in C
 
 EXP 10 : Traveling Salesman Problem (TSP)
 
+EXP 11 : C Program for Insertion Sort
+
+EXP 12 : C Program for Selection Sort
+
+EXP 13 : C program to perform inorder tree traversal
+
 # CPP Programs
 EXP 1 : C++ Program to find whether the given number is palindrome or not?
 
@@ -43,6 +49,12 @@ EXP 9 : Quick sort in C++
 
 EXP 10 : Traveling Salesman Problem (TSP)
 
+EXP 11 : C++ Program for Insertion Sort
+
+EXP 12 : C++ Program for Selection Sort
+
+EXP 13 : C++ program to perform inorder tree traversal
+
 # Python Programs
 EXP 1 : Python Program to find whether the given number is palindrome or not?
 
@@ -63,4 +75,10 @@ EXP 8 : Binary Search in Python
 EXP 9 : Quick sort in Python
 
 EXP 10 : Traveling Salesman Problem (TSP)
+
+EXP 11 : Python Program for Insertion Sort
+
+EXP 12 : Python Program for Selection Sort
+
+EXP 13 : Python program to perform inorder tree traversal
 
