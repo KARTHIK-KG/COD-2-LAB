@@ -6,25 +6,30 @@
 # Key = 44
 # 44 is found at the position 3
 
-def binary_search(arr, low, high, x):
-	if high >= low:
-		mid = (high + low) // 2
-		if arr[mid] == x:
-			return mid
-		elif arr[mid] > x:
-			return binary_search(arr, low, mid - 1, x)
-		else:
-			return binary_search(arr, mid + 1, high, x)
-	else:
-		return -1
-arr = [ 11,22,33,44,55 ]
-x = 44
-result = binary_search(arr, 0, len(arr)-1, x)
-if result != -1:
-	print(x,"is found at the position", str(result))
-else:
-	print("Element is not present in array")
-
+def partition(ar,lb,ub):
+    pivot=ar[lb]
+    start=lb
+    end=ub
+    while start<end:
+          while start<=ub and ar[start]<=pivot:
+               start+=1
+          while ar[end]>pivot:
+              end-=1
+          if start<end:
+              ar[start],ar[end]=ar[end],ar[start]
+    ar[lb],ar[end]=ar[end],ar[lb]
+    return end
+def quicksort(ar,lb,ub):
+    if lb<ub:
+        l=partition(ar,lb,ub)
+        quicksort(ar,lb,l-1)
+        quicksort(ar,l+1,ub)
+import sys
+ar=list(map(int,sys.stdin.readline().split()))
+quicksort(ar,0,(len(ar)-1))
+for i in ar:
+    print(i,end=" ")
+          
 # Input : 	
 # 11 22 33 44 55
 # 44
