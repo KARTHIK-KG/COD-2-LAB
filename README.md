@@ -28,6 +28,8 @@ EXP 12 : C Program for Selection Sort
 
 EXP 13 : C program to perform inorder tree traversal
 
+EXP 14 : Maximum distinct elements after removing k elements
+
 # CPP Programs
 EXP 1 : C++ Program to find whether the given number is palindrome or not?
 
@@ -54,6 +56,9 @@ EXP 11 : C++ Program for Insertion Sort
 EXP 12 : C++ Program for Selection Sort
 
 EXP 13 : C++ program to perform inorder tree traversal
+
+EXP 14 : Maximum distinct elements after removing k elements
+
 
 # Python Programs
 EXP 1 : Python Program to find whether the given number is palindrome or not?
